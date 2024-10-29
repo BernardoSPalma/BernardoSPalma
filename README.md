@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on getting better at coding
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: instagram -> "@_bernardo_palma_"
+- 📫 How to reach me: instagram -> @_bernardo_palma_
 - ⚡ Other hobbys: Photography and videography
 
