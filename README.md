@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi my name is Bernardo Palma and i'm a computer science student basead in Portugal!
+
 
 <!--
 **BernardoSPalma/BernardoSPalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
