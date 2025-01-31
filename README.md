@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on getting better at coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Front-End Development
 - 📫 How to reach me: instagram -> @_bernardo_palma_
 - ⚡ Other hobbys: Photography and videography
 
