@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying to become a computer forensics expert!
-- 🌱 I’m currently learning Java and Front-End Development
+- 🌱 I’m currently getting my degree in "Engenharia Informática" (Computer Science)
 - 📫 How to reach me: instagram -> @_bernardo_palma_
 - ⚡ Other hobbys: Photography and videography
 
