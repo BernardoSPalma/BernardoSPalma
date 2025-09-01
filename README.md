@@ -1,4 +1,4 @@
-## Hi my name is Bernardo Palma and i'm a computer engineering student basead in Portugal!
+## Hi my name is Bernardo Palma and i'm a computer engineering student based in Portugal!
 
 
 - 🔭 I’m currently studying to become a computer forensics expert!
