@@ -74,15 +74,10 @@
         <br><br>
         <p><b>A secure credential manager focused on encryption and AppSec best practices.</b></p>
         <img src="https://img.shields.io/github/languages/top/BernardoSPalma/PasswordManager?color=blue&style=flat-square" />
-        <img src="https://img.shields.io/github/repo-size/BernardoSPalma/PasswordManager?color=blue&style=flat-square" />
       </td>
     </tr>
   </table>
 </div>
-
-<p align="left">
-  I am currently developing <b><a href="https://github.com/BernardoSPalma/PasswordManager">PasswordManager</a></b>. It’s part of my journey to explore <b>Application Security</b> and <b>Data Protection</b>.
-</p>
 
 ###
 
