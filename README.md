@@ -64,8 +64,24 @@
 
 ###
 
+<div align="left">
+  <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #3366FF; border-radius: 10px;">
+    <tr>
+      <td bgcolor="#002b36">
+        <a href="https://github.com/BernardoSPalma/PasswordManager">
+          <img src="https://img.shields.io/badge/Project-Password%20Manager-blue?style=for-the-badge&logo=github" alt="Project Badge" />
+        </a>
+        <br><br>
+        <p><b>A secure credential manager focused on encryption and AppSec best practices.</b></p>
+        <img src="https://img.shields.io/github/languages/top/BernardoSPalma/PasswordManager?color=blue&style=flat-square" />
+        <img src="https://img.shields.io/github/repo-size/BernardoSPalma/PasswordManager?color=blue&style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="left">
-  I am currently developing <b><a href="https://github.com/BernardoSPalma/PasswordManager">PasswordManager</a></b>, a project focused on secure credential storage and encryption practices. It’s part of my journey to explore <b>Application Security</b> and <b>Data Protection</b>.
+  I am currently developing <b><a href="https://github.com/BernardoSPalma/PasswordManager">PasswordManager</a></b>. It’s part of my journey to explore <b>Application Security</b> and <b>Data Protection</b>.
 </p>
 
 ###
@@ -77,11 +93,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BernardoSPalma&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardoSPalma/BernardoSPalma/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BernardoSPalma/BernardoSPalma/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BernardoSPalma/BernardoSPalma/output/pacman-contribution-graph.svg">
-</picture>
