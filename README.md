@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Bernardo Palma from Portugal!<br><br>🔭 I’m currently studying to become a Application Security Engineer(AppSec)!<br>🌱 I’m currently getting my degree in "Engenharia Informática" (Computer Engineering)<br> 💻 I'm currently working on a personal project [PasswordManager](https://github.com/BernardoSPalma/PasswordManager)<br>📫 How to reach me: bernardopalmacode@gmail.com<br>⚡ Other hobbys: Photography and Videography</p>
+<p align="left">I'm Bernardo Palma from Portugal!<br><br>🔭 I’m currently studying to become a Application Security Engineer(AppSec)!<br>🌱 I’m currently getting my degree in "Engenharia Informática" (Computer Engineering)<br>📫 How to reach me: bernardopalmacode@gmail.com<br>⚡ Other hobbys: Photography and Videography</p>
 
 ###
 
