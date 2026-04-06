@@ -64,12 +64,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://github.com/BernardoSPalma/PasswordManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BernardoSPalma&repo=PasswordManager&theme=cobalt&show_owner=true" alt="Password Manager" />
-  </a>
-</div>
-
 <p align="left">
   I am currently developing <b><a href="https://github.com/BernardoSPalma/PasswordManager">PasswordManager</a></b>, a project focused on secure credential storage and encryption practices. It’s part of my journey to explore <b>Application Security</b> and <b>Data Protection</b>.
 </p>
