@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Bernardo Palma from Portugal!<br><br>🔭 I’m currently studying to become a Application Security Engineer(AppSec)!<br>🌱 I’m currently getting my degree in "Engenharia Informática" (Computer Engineering)<br>📫 How to reach me: bernardopalmacode@gmail.com<br>⚡ Other hobbys: Photography and Videography</p>
+<p align="left">I'm Bernardo Palma from Portugal!<br><br>🔭 I’m currently studying to become an **Application Security Engineer (AppSec)**!<br>🌱 I’m currently getting my degree in **"Engenharia Informática" (Computer Engineering)**<br>📫 How to reach me: [**bernardopalmacode@gmail.com**](mailto:bernardopalmacode@gmail.com)<br>⚡ Other hobbys: Photography and Videography</p>
 
 ###
 
@@ -69,5 +69,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BernardoSPalma/BernardoSPalma/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BernardoSPalma/BernardoSPalma/output/pacman-contribution-graph.svg">
 </picture>
-
-###
